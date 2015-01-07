@@ -1,0 +1,13 @@
+form input, form select, form textarea {
+	display:block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+form {
+	border: 1px solid black;
+	padding-left: 20px;
+	padding-bottom: 5px;
+	width: 200px;
+	margin-left: 40%;
+	margin-top: 20px;
+}
