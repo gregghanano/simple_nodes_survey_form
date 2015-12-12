@@ -22,6 +22,6 @@ app.post('/result', function (req, res){
 	res.render('result', req.body);
 });
 
-app.listen(7777, function(){
-	console.log("Listening on port 7777");
+app.listen(8000, function(){
+	console.log("Listening on port 8000");
 });
